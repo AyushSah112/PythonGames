@@ -1,5 +1,3 @@
-PythonGames
+GuessTheNumber
 
-Welcome to PythonGames, a collection of Python game projects created to improve programming skills through hands-on practice. This repository includes simple, interactive, and beginner-friendly games built using core Python concepts such as loops, functions, conditionals, dictionaries, file handling, object-oriented programming, and more.
-
-The main goal of this repository is to learn Python by building real projects instead of only studying theory. As I continue learning, I'll keep adding new games, improving existing ones, and experimenting with different features and programming techniques. Whether you're a beginner looking for inspiration or someone who enjoys small Python projects, I hope you find this repository useful.# PythonGames
+GuessTheNumber is a simple Python game where the player tries to guess a randomly generated number within a limited number of attempts. The project demonstrates the use of random number generation, loops, conditional statements, user input, and basic game logic. It was built as a practice project to strengthen Python fundamentals while creating an interactive and enjoyable command-line game.
