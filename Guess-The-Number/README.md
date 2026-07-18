@@ -1,5 +1,37 @@
-##GuessTheNumber
+# Guess The Number
 
-• GuessTheNumber is a simple Python game where the player tries to guess a randomly generated number within a limited number of attempts. 
-• The project demonstrates the use of random number generation, loops, conditional statements, user input, and basic game logic. 
-• It was built as a practice project to strengthen Python fundamentals while creating an interactive and enjoyable command-line game.
+A simple command-line game built with Python where the player tries to guess a randomly generated number. The game provides hints after each guess until the correct number is found.
+
+## Features
+
+- Random number generation
+- User input validation
+- Too High / Too Low hints
+- Beginner-friendly implementation
+- Clean and easy-to-understand code
+
+## Built With
+
+- Python 3
+
+## How to Run
+
+```bash
+python main.py
+```
+
+## Project Structure
+
+```
+GuessTheNumber/
+├── main.py
+└── README.md
+```
+
+## Purpose
+
+This project was created to practice Python fundamentals such as loops, conditional statements, functions, user input, and the `random` module while building a simple interactive game.
+
+---
+
+Created as part of my Python learning journey.
